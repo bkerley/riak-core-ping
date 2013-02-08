@@ -1,0 +1,7 @@
+*.beam
+.eunit
+deps/*
+ebin/*
+rel/pingapp
+dev
+apps/pingapp/src/*
